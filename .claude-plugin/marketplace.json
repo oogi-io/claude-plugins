@@ -1,0 +1,12 @@
+{
+  "name": "oogi",
+  "description": "OOGI BV's Claude Code plugins for FileMaker work: fm-odata today; fmsonar and fmstyle when they carry a manifest.",
+  "owner": { "name": "OOGI BV", "url": "https://oogi.io" },
+  "plugins": [
+    {
+      "name": "fm-odata",
+      "description": "Point your AI here and it'll be able to work with OData. FileMaker OData behaviours that return wrong data instead of errors, with the evidence per claim.",
+      "source": { "source": "github", "repo": "oogi-io/fm-odata-skill" }
+    }
+  ]
+}
